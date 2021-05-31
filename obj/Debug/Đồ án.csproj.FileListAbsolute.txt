@@ -1,0 +1,80 @@
+D:\lập trình trên window\Đồ án\bin\Debug\Đồ án.exe.config
+D:\lập trình trên window\Đồ án\bin\Debug\Đồ án.exe
+D:\lập trình trên window\Đồ án\bin\Debug\Đồ án.pdb
+D:\lập trình trên window\Đồ án\obj\Debug\Đồ_án.Properties.Resources.resources
+D:\lập trình trên window\Đồ án\obj\Debug\Đồ án.csproj.GenerateResource.cache
+D:\lập trình trên window\Đồ án\obj\Debug\Đồ án.csproj.CoreCompileInputs.cache
+D:\lập trình trên window\Đồ án\obj\Debug\Đồ án.exe
+D:\lập trình trên window\Đồ án\obj\Debug\Đồ án.pdb
+D:\lập trình trên window\Đồ án\bin\Debug\EntityFramework.dll
+D:\lập trình trên window\Đồ án\bin\Debug\EntityFramework.SqlServer.dll
+D:\lập trình trên window\Đồ án\bin\Debug\EntityFramework.xml
+D:\lập trình trên window\Đồ án\bin\Debug\EntityFramework.SqlServer.xml
+D:\lập trình trên window\Đồ án\obj\Debug\Đồ_án.Views.frmDeTai.resources
+D:\lập trình trên window\Đồ án\obj\Debug\Đồ_án.Views.frmDoiMatKhau.resources
+D:\lập trình trên window\Đồ án\obj\Debug\Đồ_án.Views.frmGiaoVien.resources
+D:\lập trình trên window\Đồ án\obj\Debug\Đồ_án.Views.frmMainGUI.resources
+D:\lập trình trên window\Đồ án\obj\Debug\Đồ_án.Views.frmSinhVien.resources
+D:\lập trình trên window\Đồ án\obj\Debug\Đồ án.csproj.CopyComplete
+C:\Users\Welcome\Desktop\Đồ án\bin\Debug\Đồ án.exe.config
+C:\Users\Welcome\Desktop\Đồ án\bin\Debug\Đồ án.exe
+C:\Users\Welcome\Desktop\Đồ án\bin\Debug\Đồ án.pdb
+C:\Users\Welcome\Desktop\Đồ án\bin\Debug\EntityFramework.dll
+C:\Users\Welcome\Desktop\Đồ án\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Welcome\Desktop\Đồ án\bin\Debug\EntityFramework.xml
+C:\Users\Welcome\Desktop\Đồ án\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Welcome\Desktop\Đồ án\obj\Debug\Đồ án.csprojAssemblyReference.cache
+C:\Users\Welcome\Desktop\Đồ án\obj\Debug\Đồ_án.Views.frmDangNhap.resources
+C:\Users\Welcome\Desktop\Đồ án\obj\Debug\Đồ_án.Views.frmDeTai.resources
+C:\Users\Welcome\Desktop\Đồ án\obj\Debug\Đồ_án.Views.frmDoiMatKhau.resources
+C:\Users\Welcome\Desktop\Đồ án\obj\Debug\Đồ_án.Views.frmGiaoVien.resources
+C:\Users\Welcome\Desktop\Đồ án\obj\Debug\Đồ_án.Views.frmMainGUI.resources
+C:\Users\Welcome\Desktop\Đồ án\obj\Debug\Đồ_án.Views.frmQuanLyNguoiDung.resources
+C:\Users\Welcome\Desktop\Đồ án\obj\Debug\Đồ_án.Views.frmSinhVien.resources
+C:\Users\Welcome\Desktop\Đồ án\obj\Debug\Đồ_án.Properties.Resources.resources
+C:\Users\Welcome\Desktop\Đồ án\obj\Debug\Đồ án.csproj.GenerateResource.cache
+C:\Users\Welcome\Desktop\Đồ án\obj\Debug\Đồ án.csproj.CoreCompileInputs.cache
+C:\Users\Welcome\Desktop\Đồ án\obj\Debug\Đồ án.csproj.CopyComplete
+C:\Users\Welcome\Desktop\Đồ án\obj\Debug\Đồ án.exe
+C:\Users\Welcome\Desktop\Đồ án\obj\Debug\Đồ án.pdb
+D:\lập trình trên window\Đồ án\obj\Debug\Đồ_án.Views.Sinh_viên.frmMainSinhVien.resources
+D:\lập trình trên window\Đồ án\obj\Debug\Đồ_án.Views.frmLogin.resources
+D:\lập trình trên window\Đồ án\obj\Debug\Đồ_án.Views.Sinh_viên.frmThongTinSinhVien.resources
+D:\lập trình trên window\Đồ án\obj\Debug\Đồ_án.Views.Sinh_viên.frmDeTaiSinhVien.resources
+D:\lập trình trên window\Đồ án\obj\Debug\Đồ_án.Views.Giáo_viên.frmDeTaiGiaoVien.resources
+D:\lập trình trên window\Đồ án\obj\Debug\Đồ_án.Views.Giáo_viên.frmMainGiaoVien.resources
+D:\lập trình trên window\Đồ án\obj\Debug\Đồ_án.Views.Giáo_viên.frmThongTinGiaoVien.resources
+D:\lập trình trên window\Đồ án\obj\Debug\Đồ_án.Views.Giáo_viên.frmChiTietDeTai.resources
+D:\lập trình trên window\Đồ án\obj\Debug\Đồ_án.Views.Giáo_viên.frmThemDeTai.resources
+D:\Học kỳ 2- Năm 2\Lập trình trên windows\Đồ án\bin\Debug\Đồ án.exe.config
+D:\Học kỳ 2- Năm 2\Lập trình trên windows\Đồ án\bin\Debug\Đồ án.exe
+D:\Học kỳ 2- Năm 2\Lập trình trên windows\Đồ án\bin\Debug\Đồ án.pdb
+D:\Học kỳ 2- Năm 2\Lập trình trên windows\Đồ án\bin\Debug\EntityFramework.dll
+D:\Học kỳ 2- Năm 2\Lập trình trên windows\Đồ án\bin\Debug\EntityFramework.SqlServer.dll
+D:\Học kỳ 2- Năm 2\Lập trình trên windows\Đồ án\bin\Debug\EntityFramework.xml
+D:\Học kỳ 2- Năm 2\Lập trình trên windows\Đồ án\bin\Debug\EntityFramework.SqlServer.xml
+D:\Học kỳ 2- Năm 2\Lập trình trên windows\Đồ án\obj\Debug\Đồ án.csprojAssemblyReference.cache
+D:\Học kỳ 2- Năm 2\Lập trình trên windows\Đồ án\obj\Debug\Đồ_án.Views.frmDeTai.resources
+D:\Học kỳ 2- Năm 2\Lập trình trên windows\Đồ án\obj\Debug\Đồ_án.Views.frmGiaoVien.resources
+D:\Học kỳ 2- Năm 2\Lập trình trên windows\Đồ án\obj\Debug\Đồ_án.Views.frmLogin.resources
+D:\Học kỳ 2- Năm 2\Lập trình trên windows\Đồ án\obj\Debug\Đồ_án.Views.frmMainGUI.resources
+D:\Học kỳ 2- Năm 2\Lập trình trên windows\Đồ án\obj\Debug\Đồ_án.Views.frmSinhVien.resources
+D:\Học kỳ 2- Năm 2\Lập trình trên windows\Đồ án\obj\Debug\Đồ_án.Properties.Resources.resources
+D:\Học kỳ 2- Năm 2\Lập trình trên windows\Đồ án\obj\Debug\Đồ_án.Views.Giáo_viên.frmChiTietDeTai.resources
+D:\Học kỳ 2- Năm 2\Lập trình trên windows\Đồ án\obj\Debug\Đồ_án.Views.Giáo_viên.frmDeTaiGiaoVien.resources
+D:\Học kỳ 2- Năm 2\Lập trình trên windows\Đồ án\obj\Debug\Đồ_án.Views.Giáo_viên.frmMainGiaoVien.resources
+D:\Học kỳ 2- Năm 2\Lập trình trên windows\Đồ án\obj\Debug\Đồ_án.Views.Giáo_viên.frmThemDeTai.resources
+D:\Học kỳ 2- Năm 2\Lập trình trên windows\Đồ án\obj\Debug\Đồ_án.Views.Giáo_viên.frmThongTinGiaoVien.resources
+D:\Học kỳ 2- Năm 2\Lập trình trên windows\Đồ án\obj\Debug\Đồ_án.Views.Sinh_viên.frmDeTaiSinhVien.resources
+D:\Học kỳ 2- Năm 2\Lập trình trên windows\Đồ án\obj\Debug\Đồ_án.Views.Sinh_viên.frmMainSinhVien.resources
+D:\Học kỳ 2- Năm 2\Lập trình trên windows\Đồ án\obj\Debug\Đồ_án.Views.Sinh_viên.frmThongTinSinhVien.resources
+D:\Học kỳ 2- Năm 2\Lập trình trên windows\Đồ án\obj\Debug\Đồ án.csproj.GenerateResource.cache
+D:\Học kỳ 2- Năm 2\Lập trình trên windows\Đồ án\obj\Debug\Đồ án.csproj.CoreCompileInputs.cache
+D:\Học kỳ 2- Năm 2\Lập trình trên windows\Đồ án\obj\Debug\Đồ án.csproj.CopyComplete
+D:\Học kỳ 2- Năm 2\Lập trình trên windows\Đồ án\obj\Debug\Đồ án.exe
+D:\Học kỳ 2- Năm 2\Lập trình trên windows\Đồ án\obj\Debug\Đồ án.pdb
+D:\lập trình trên window\Đồ án\obj\Debug\Đồ_án.Views.Giáo_viên.frmDoiMatKhauGV.resources
+D:\lập trình trên window\Đồ án\obj\Debug\Đồ_án.Views.Sinh_viên.frmDoiMatKhauSV.resources
+D:\lập trình trên window\Đồ án\obj\Debug\Đồ án.csprojAssemblyReference.cache
+D:\Học kỳ 2- Năm 2\Lập trình trên windows\Đồ án\obj\Debug\Đồ_án.Views.Giáo_viên.frmDoiMatKhauGV.resources
+D:\Học kỳ 2- Năm 2\Lập trình trên windows\Đồ án\obj\Debug\Đồ_án.Views.Sinh_viên.frmDoiMatKhauSV.resources
